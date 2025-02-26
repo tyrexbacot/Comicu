@@ -6,14 +6,14 @@ Welcome to **Comiku Beta**! This is a self-made application for reading manga wi
 **1.4**
 
 ## Featured Info
-- 🟢 Base URL: Komikcast
-- 🟢 Simple App
-- 🟢 Read Manga without any ads
-- 🟢 Anti-Premium features and large ads
+- Base URL: [Komikcast](https://komikcast01.com/)
+- Simple App
+- Read Manga without any ads
+- Anti-Premium features and large ads
 
 ## Changelog
-- 🔴 Updated Base URL / Domain for Komikcast
-- 🔴 Updated Library
+- Updated Base URL / Domain for Komikcast
+- Updated Library
 
 ## Important Notes
 ❗️ This is not the official application, it's self-made. Therefore, it might not be as good as the official one.
